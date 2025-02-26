@@ -1,0 +1,25 @@
+
+.apiPost {
+    background-color: #757070;
+    color: #FFFFFF;
+    text-align: center;
+    text-transform: uppercase;
+}
+.commentStil {
+    background-color:#C0C0C0;
+}
+
+.base {
+    width: 700px;
+   margin: auto;
+}
+
+.hr {
+    width: 700px;
+    margin-left: -21px;
+    
+
+}
+.apiPostP {
+    font-size: 25px;
+}
